@@ -5,7 +5,7 @@ Contains an API as well as an example Joker to create your own evolutions.
 
 Inspired of [Fusion Jokers](https://github.com/itayfeder/Fusion-Jokers) by [itayfeder](https://github.com/itayfeder).<br>
 Thanks to [MathIsFun](https://github.com/MathIsFun0) for the help, [RattlingSnow353](https://github.com/RattlingSnow353) for the sprite
-and [Sharps-off]https://github.com/Sharps-off for the sprite improvements!
+and [Sharps-off](https://github.com/Sharps-off) for the sprite improvements!
 
 ## Installation
 - Requires [Steamodded](https://github.com/Steamopollys/Steamodded/) v1.0.0 or higher (An installation guide is available there)
